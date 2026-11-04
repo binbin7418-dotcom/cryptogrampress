@@ -1,0 +1,10 @@
+[PASS] counts: 6 puzzles, Easy/Medium/Hard rotating (['Easy', 'Medium', 'Hard', 'Easy', 'Medium', 'Hard'])
+[PASS] every substitution is a bijection with no fixed letters 
+[PASS] printed key decodes every cipher back to its quotation exactly 
+[PASS] every cipher: exactly one decode (independent longest-first pattern solver) (letters per puzzle: [55, 81, 143, 38, 73, 98])
+[PASS] tamper: swapping two cipher letters breaks the key decode 
+[PASS] PDF 612x792pt, 14 pages (14)
+[PASS] 6-puzzle mixed book builds in under 180s (6.3s)
+[PASS] deterministic for fixed seed 
+
+8/8 PASS
